@@ -39,8 +39,6 @@
 - 🤖 AI Code Explainer (Flask + Gemini API)
 - 📚 Chat with Notes (RAG System)
 - 📄 Resume Builder (React + Flask)
-- 🚶 Human Activity Recognition (ML)
-- 🚨 Fall Detection System
 
 ---
 
