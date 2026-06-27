@@ -53,7 +53,7 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/ashnasingh2909
-- LinkedIn: (add your link here)
+- LinkedIn: https://www.linkedin.com/in/ashna-singh-9557a3325/
 
 ---
 
